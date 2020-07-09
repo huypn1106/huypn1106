@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Zalo Group, VNG
+- 🌱 I’m currently learning web programing with Java
+- 📫 How to reach me: https://www.linkedin.com/in/huy-pham-018a86167/
+- ⚡ Fun fact: Best Leesin :))
 
 <!--
 **ngochuyute/ngochuyute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
